@@ -1,0 +1,1 @@
+# TASK 6.QueueTrigger 테스트

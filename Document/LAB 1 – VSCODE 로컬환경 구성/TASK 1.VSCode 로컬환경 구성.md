@@ -1,4 +1,4 @@
-Task 1.	 VSCode With Azure 연동
+# Task 1.	 VSCode With Azure 연동
 1.	VSCode 실행 후 좌측 상단 RESOURCES에서 “Sign in to Azure…”를 선택합니다.
 
 ![img](./1.png) 

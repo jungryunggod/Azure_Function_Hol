@@ -1,0 +1,1 @@
+# TASK 3.QueueTrigger 로컬환경 실행
