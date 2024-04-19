@@ -16,8 +16,8 @@
 
 ## 목차
 - [LAB 0 – HOL 환경 설명]
-    - [TASK 1.	HANDS-ON LAB 목표]
-    - [TASK 2.	사전 준비사항]
+    - [TASK 1.	HANDS-ON LAB 목표]()
+    - [TASK 2.	사전 준비사항]()
 - [LAB 1 – VSCODE 로컬환경 구성]
     - [TASK 1.	VSCode 로컬환경 구성]
 - [LAB 2 – JAVA FUNCTION 생성 및 실행]
