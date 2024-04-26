@@ -1,4 +1,4 @@
-# RBAC Error 처리
+# Azure Functions Core Tools not found 문제 해결
 ![img](./img/task2/error1.png)
 
 1. 로그에 출력된 해당 링크로 이동합니다.

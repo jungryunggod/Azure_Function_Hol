@@ -8,15 +8,16 @@ mvn clean package
 ```powershell
 mvn azure-functions:run
 ```
-2.	Azure Portal에 접속하여 input컨테이너에 이미지를 업로드 후 리사이징 처리되는 로그를 확인합니다.
+2.	Azure Portal에 접속하여 input컨테이너에 이미지를 업로드 후 리사이징 처리되는 로그를 확인합니다.(단, 이미지는 `png파일`로 테스트할것)
 
 ![img](./img/task2/2.png)
 
 3.	Azure Portal에 접속하여 input컨테이너와 output컨테이너에 업로드 된 이미지 크기를 확인합니다. [완료]
-- input 컨테이너
+
+    - input 컨테이너
   
     ![img](./img/task2/3-1.png)
 
-- output 컨테이너
+    - output 컨테이너
   
     ![img](./img/task2/3-2.png)

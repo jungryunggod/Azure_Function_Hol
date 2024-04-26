@@ -17,12 +17,14 @@ func start
 ![img](./img/task3/1-3.png)
 
 2.	function.json파일 수정
-	function.json파일에서 connection이 “functionsholst_STORAGE”로 되어있으나 배포 시 AzureWebJobsStorage에서 스토리지 연결 문자열이 저장되기 때문에 connection을 AzureWebJobsStorage로 미리 변경합니다.
+
+    function.json파일에서 connection이 “functionsholst_STORAGE”로 되어있으나 배포 시 AzureWebJobsStorage에서 스토리지 연결 문자열을 찾기 때문에 connection을 AzureWebJobsStorage로 미리 변경합니다.
  
 ![img](./img/task3/2.png)
 
 3.	local.setting.json파일 수정
-	로컬에서 테스트 진행 시 local.setting.json에서 환경변수를 사용하기 때문에 비어있는 AzureWebJobsStorage변수에 functionsholst_STORAGE에 저장된 스토리지 연결 문자열을 똑같이 복사해서 넣어줍니다.
+
+    function.json에 등록된 connection과 바인딩을 시켜주기 위해 비어있는 AzureWebJobsStorage환경변수에 functionsholst_STORAGE(다를 수 있음)에 저장된 스토리지 연결 문자열을 똑같이 복사해서 넣어줍니다.
  
 ![img](./img/task3/3.png)
 

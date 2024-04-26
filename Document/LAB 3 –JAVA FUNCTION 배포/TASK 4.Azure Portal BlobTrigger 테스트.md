@@ -7,11 +7,11 @@
  
 ![img](./img/task4/2.png)
 
-3.	다른 브라우저 창을 열어 스토리지 계정(holfunctionsjava107d0b)에서 input 컨테이너를 클릭합니다.
+3.	다른 브라우저 창을 열어 스토리지 계정(holfunctionsjava*****)에서 `input` 컨테이너를 클릭합니다.
  
 ![img](./img/task4/3.png)
 
-4.	업로드를 클릭해서 이미지를 업로드 테스트를 진행합니다.
+4.	업로드를 클릭해서 이미지(`png파일`)를 업로드 테스트를 진행합니다.
  
 ![img](./img/task4/4.png)
 
@@ -23,6 +23,6 @@
  
 ![img](./img/task4/6.png)
 
-7.	스토리지 계정(holfunctionsjava107d0b)에서 output 컨테이너에 리사이징 된 이미지를 다운로드 받아 실제 이미지 사이즈에 변화가 있는지 확인합니다. [완료]
+7.	스토리지 계정(holfunctionsjava*****)에서 output 컨테이너에 리사이징 된 이미지를 다운로드 받아 실제 이미지 사이즈에 변화가 있는지 확인합니다. [완료]
 
 ![img](./img/task4/1.png)

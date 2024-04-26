@@ -20,6 +20,16 @@ code . : 새 작업환경 열기
  
 ![img](./img/task2/4.png)
 
+---
+
+- 만약, Python을 선택 후 아래 이미지와 같이 Model V2와 Model V1이 나오는 경우 `Model V1`을 선택해서 진행합니다.
+
+![img](./img/task2/new1.png)
+
+- VSCode 최신버전에서 Model V1, Model2에 따라 코드 형태가 달라짐
+
+---
+
 5.	Skip virtual environment를 선택해서 넘어갑니다.
  
 ![img](./img/task2/5.png)
@@ -37,16 +47,23 @@ code . : 새 작업환경 열기
 ![img](./img/task2/8.png)
 
 9.	사용할 구독을 선택합니다.
-	단, 기존에 스토리지 계정이 배포된 구독을 선택 합니다.
+- 단, 기존에 스토리지 계정이 배포된 구독을 선택 합니다.
  
 ![img](./img/task2/9.png)
+
+  - 만약, 구독선택 후 아래 이미지와 같이 나오는 경우    
+  “Use Azure Storage for remote storage”를 선택합니다.   
+  (VSCode 최신버전에서 선택지 추가)
+
+    ![img](./img/task2/new2.png)
 
 10.	로컬에서 Java Function작업시 사용했던 스토리지계정을 선택합니다.
  
 ![img](./img/task2/10.png)
 
 11.	스토리지 계정에 생성될 큐에 대한 명칭을 지어줍니다.
-	python-queue-mysql
+
+- python-queue-mysql
  
 ![img](./img/task2/11.png)
 

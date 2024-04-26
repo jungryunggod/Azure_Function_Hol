@@ -56,7 +56,7 @@ Function 실행 : mvn azure-functions:run
 ![img](./img/task5/6-update.png)
 
 * `중요` : 컨테이너 화면에서 아래 이미지와 동일한 에러가 발생하는 경우   
-  [링크]()를 클릭하여 다음 과정을 수행해주시길 바랍니다.    
+  [링크](https://github.com/IIBlackCode/Azure_Function_Hol/blob/master/Document/ERROR/LAB2/task5.md)를 클릭하여 다음 과정을 수행해주시길 바랍니다.    
   (추후, 동일한 에러 발견시 똑같이 진행)
 
 ![img](./img/task5/error1.png)

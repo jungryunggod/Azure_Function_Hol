@@ -1,9 +1,6 @@
 # TASK 1.HttpTrigger, BlobTrigger 코드 수정
 
--	아래 코드는 GitHub에서 제공됩니다. GitHub를 clone해도 무방합니다.
--	https://github.com/mtcdevops/Azure_Functions
-
-1.	기존 pom.xml에서 아래 의존성을 추가합니다.
+1.	[pom.xml](https://github.com/IIBlackCode/Azure_Function_Hol/blob/master/Java/pom.xml)에 dependency를 추가합니다.
 ```xml
         <!-- 이미지 업로드 종속성 추가-->
         <dependency>
@@ -55,7 +52,7 @@
         </dependency>
 ```
 
-2.	이미지 업로드시 파일정보를 알아내기 위해 blobTrigger를 수정합니다.
+2.	이미지 업로드시 파일정보를 알아내기 위해 기존에 추가했던 [BlobTriggerJava-OUTPUT.java](https://github.com/IIBlackCode/Azure_Function_Hol/blob/master/Java/src/main/java/com/function/kms/BlobTriggerJava.java)파일의 코드를 수정합니다.
 - Import 추가
 ```java
 import java.io.IOException;
