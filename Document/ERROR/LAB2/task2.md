@@ -8,7 +8,7 @@
 
 ![img](./img/error2.png)
 
-3. VSCode Tool을 종료 후 다시 켜서 터미널에 다시 Function 실행 명령어를 입력 후 정상적으로 동작하는지 확인합니다. 
+3. VSCode Tool을 재시작하여 터미널에 다시 Function 실행 명령어를 입력 후 정상적으로 동작하는지 확인합니다. 
 
 ```powershell
 mvn azure-functions:run
