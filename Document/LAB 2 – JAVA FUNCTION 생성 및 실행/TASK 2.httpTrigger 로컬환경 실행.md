@@ -16,7 +16,9 @@ mvn azure-functions:run
 ![img](./img/task2/3.png)
 
     - `주의사항`
-    > 빌드 후 실행 명령어에서 다음과 같은 에러가 발생하는 경우 [링크]()를 클릭하여 다음 과정을 수행해주시길 바랍니다.(에러가 발생하지 않은 경우 `skip`)
+    > 빌드 후 실행 명령어에서 아래 이미지와 동일한 에러가 발생하는 경우   
+    [링크](https://github.com/IIBlackCode/Azure_Function_Hol/blob/master/Document/ERROR/LAB2/task2.md)를 클릭하여 다음 과정을 수행해주시길 바랍니다.   
+    (에러가 발생하지 않은 경우 `skip`)
 
     ![img](./img/task2/error1.png)
 
