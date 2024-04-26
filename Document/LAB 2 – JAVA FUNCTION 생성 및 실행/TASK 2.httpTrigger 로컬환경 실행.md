@@ -15,6 +15,11 @@ mvn azure-functions:run
 3.	명령어 입력 후 제공되는 로컬url을 복사하여 간단한 테스트를 진행합니다.
 ![img](./img/task2/3.png)
 
+    - `주의사항`
+    > 빌드 후 실행 명령어에서 다음과 같은 에러가 발생하는 경우 [링크]()를 클릭하여 다음 과정을 수행해주시길 바랍니다.(에러가 발생하지 않은 경우 `skip`)
+
+    ![img](./img/task2/error1.png)
+
 4.	크롬 브라우저를 열어 복사한 url을 입력 후 get방식으로 파라미터를 전달합니다.
 - http://localhost:7071/api/HttpExample?name=java
 
