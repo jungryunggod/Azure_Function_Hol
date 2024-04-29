@@ -20,7 +20,8 @@
 ## 목차
 - [LAB 0 – HOL 환경 설명]
     - [TASK 1.	HANDS-ON LAB 목표](https://github.com/IIBlackCode/Azure_Function_Hol/blob/master/Document/LAB%200%20%E2%80%93%20HOL%20%ED%99%98%EA%B2%BD%20%EC%84%A4%EB%AA%85/TASK%201.HANDS-ON%20LAB%20%EB%AA%A9%ED%91%9C.md)
-    - [TASK 2.	사전 준비사항](https://github.com/IIBlackCode/Azure_Function_Hol/blob/master/Document/LAB%200%20%E2%80%93%20HOL%20%ED%99%98%EA%B2%BD%20%EC%84%A4%EB%AA%85/TASK%202.%EC%82%AC%EC%A0%84%20%EC%A4%80%EB%B9%84%EC%82%AC%ED%95%AD.md)
+    - [TASK 2.	개발환경 사전 준비 사항](https://github.com/IIBlackCode/Azure_Function_Hol/blob/master/Document/LAB%200%20%E2%80%93%20HOL%20%ED%99%98%EA%B2%BD%20%EC%84%A4%EB%AA%85/TASK%202.%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%20%EC%82%AC%EC%A0%84%20%EC%A4%80%EB%B9%84%20%EC%82%AC%ED%95%AD.md)
+    - [TASK 3.	설치 버전 확인](https://github.com/IIBlackCode/Azure_Function_Hol/blob/master/Document/LAB%200%20%E2%80%93%20HOL%20%ED%99%98%EA%B2%BD%20%EC%84%A4%EB%AA%85/TASK%203.%EC%84%A4%EC%B9%98%20%EB%B2%84%EC%A0%84%20%ED%99%95%EC%9D%B8.md)
 - [LAB 1 – VSCODE 로컬환경 구성]
     - [TASK 1.	VSCode 로컬환경 구성](https://github.com/IIBlackCode/Azure_Function_Hol/blob/master/Document/LAB%201%20%E2%80%93%20VSCODE%20%EB%A1%9C%EC%BB%AC%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%84%B1/TASK%201.VSCode%20%EB%A1%9C%EC%BB%AC%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%84%B1.md)
 - [LAB 2 – JAVA FUNCTION 생성 및 실행]
